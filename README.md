@@ -1,2 +1,2 @@
 # squad-koding-hackathon-api
-This
+This repo is created for koding hackathon 2016.
